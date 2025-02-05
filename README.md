@@ -10,9 +10,13 @@ For any support or help with any scripts or Assest please join the Support: [Dis
 Enhance your FiveM server with this detailed and optimized vehicle asset, perfect for roleplay, racing, or general use. This asset includes:
 
 ✅ Optimized Model – Smooth performance with minimal impact on server resources.
+
 ✅ Custom Handling – Balanced speed, acceleration, and braking for an immersive driving experience.
+
 ✅ Detailed Interior & Exterior – High-quality textures and realistic lighting.
+
 ✅ Fully Functional Lights & Indicators – Ensures compatibility with FiveM lighting systems.
+
 ✅ Easy Installation – Drag-and-drop ready, with clear setup instructions.
 
 🔧 How to Install:
